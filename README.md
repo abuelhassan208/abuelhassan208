@@ -1,219 +1,227 @@
-<!-- ========================================================= -->
-<!-- HERO SECTION -->
-<!-- ========================================================= -->
+<!-- ===================================================================================== -->
+<!-- ANIMATED INTRO HEADER -->
+<!-- ===================================================================================== -->
 
-<h1 align="center">👋 Hey, I'm <strong>Ahmed Abu El-Hassan</strong></h1>
-<h3 align="center">Senior Flutter Developer • Mobile Engineer • Cross-Platform Architect</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building powerful, scalable, and beautifully crafted mobile experiences.  
-  Driven by clean code, strong architecture, and world-class UI/UX engineering.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=4FC3F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Ahmed+Abu+El-Hassan!👋;Senior+Flutter+Developer+%7C+Mobile+Engineer;Cross-Platform+Architect+%7C+UI%2FUX+Craftsman;Building+Apps+That+Scale+Since+2020" />
 
-<p align="center">
-  🚀 Delivering production apps since 2020 • 🌍 Available for collaborations • ❤️ Flutter-first mindset
-</p>
+<br>
 
----
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd6ZzR5aHFiNHd3ZnB0Y2d5YWpsbmJxb2IyM2RsZ3dxeHQzamt0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="320" />
 
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
+# 💙 **Welcome to My Universe of Flutter Development**
+### Crafting modern, scalable & pixel-perfect mobile experiences for Android & iOS
 
-## 👨‍💻 About Me
-
-I'm **Ahmed Abu El-Hassan**, a Flutter Developer at **Code7x**, with extensive experience in transforming complex concepts into reliable mobile apps used across the **App Store**, **Google Play**, and **AppGallery**.
-
-What defines my work:
-- Engineering maintainable, scalable apps using clean architecture & state management  
-- Creating visually immersive UIs with exceptional performance  
-- Integrating advanced features: Maps, Realtime communication, Video calls, Sockets, Offline modes  
-- Shipping stable production apps for **E-commerce**, **Logistics**, **Travel**, **Education**, and **Service platforms**
-
-💡 *I believe great apps are crafted where technology meets thoughtful design and strong architectural discipline.*
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!-- TECHNICAL SKILLS -->
-<!-- ========================================================= -->
+<!-- ===================================================================================== -->
+<!-- WAVE DIVIDER -->
+<!-- ===================================================================================== -->
 
-## 🛠️ Technical Skillset
-
-### **Languages & Frameworks**
-| Technology | Expert Level |
-|-----------|--------------|
-| Dart | ⭐⭐⭐⭐⭐ |
-| Flutter | ⭐⭐⭐⭐⭐ |
-| Firebase Suite | ⭐⭐⭐⭐⭐ |
-| REST APIs • JSON | ⭐⭐⭐⭐⭐ |
-| Socket.IO | ⭐⭐⭐⭐ |
-| SQLite | ⭐⭐⭐⭐ |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ---
 
-### **Architecture & Patterns**
-- **Clean Architecture**
-- **SOLID Principles**
-- **MVC / MVVM**
-- **Repository Pattern**
-- **Feature-Driven Structure (FSD)**
-- **High-level modularization techniques**
+# 👨‍💻 **About Me**
+
+I'm **Ahmed Abu El-Hassan**, a passionate **Flutter Developer at Code7x** with a deep focus on:
+
+✨ Cross-platform high-performance apps  
+✨ Clean Architecture & maintainable codebases  
+✨ UI/UX craftsmanship with smooth animations  
+✨ Performance optimization & real-time features  
+✨ Pixel-perfect implementation from Figma designs  
+
+I’ve shipped **20+ production apps** across  
+**App Store | Google Play | Huawei AppGallery**  
+serving thousands of active users globally.
+
+I believe great apps are built at the intersection of  
+**creativity, engineering precision, and user empathy.**
 
 ---
 
-### **State Management**
-- **Bloc (Advanced)**
-- **GetX (Advanced)**
-- Provider  
-- Stacked Architecture  
+<!-- ===================================================================================== -->
+<!-- WAVE DIVIDER -->
+<!-- ===================================================================================== -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
-### **Backend & Integrations**
-- Firebase Auth • Firestore • Storage • Analytics  
-- Google Maps SDK  
-- Push Notifications (FCM)  
-- Realtime Sockets  
-- Local storage (Hive / SharedPreferences / SQLite)
+# 🚀 **Tech Stack — Tools I Master**
+A visual grid of the technologies I work with.
+
+<!-- ===================================================================================== -->
+<!-- TECH LOGOS GRID -->
+<!-- ===================================================================================== -->
+
+<div align="center">
+
+### **📱 Mobile & Frameworks**
+<img src="https://img.icons8.com/color/96/flutter.png" width="60"/>
+<img src="https://img.icons8.com/color/96/dart.png" width="60"/>
+<img src="https://img.icons8.com/color/96/android-os.png" width="60"/>
+<img src="https://img.icons8.com/color/96/ios-logo.png" width="60"/>
+
+### **⚙️ Architecture & Patterns**
+<img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-purple?style=for-the-badge"/>
+
+
+### **🧠 State Management**
+<img src="https://img.shields.io/badge/BLoC-2962FF?logo=flutter&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GetX-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stacked-7E57C2?style=for-the-badge"/>
+
+
+### **🔥 Backend & Realtime**
+<img src="https://img.icons8.com/color/96/firebase.png" width="60"/>
+<img src="https://img.icons8.com/color/96/google-maps.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/websocket.png" width="60"/>
+<img src="https://img.icons8.com/color/96/sql.png" width="60"/>
+
+### **🧰 Databases & Networking**
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hive-FBC02D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dio-0277BD?style=for-the-badge"/>
+
+### **🎨 Design & Tools**
+<img src="https://img.icons8.com/color/96/figma--v1.png" width="60"/>
+<img src="https://img.icons8.com/color/96/android-studio--v3.png" width="60"/>
+<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60"/>
+
+### **🐍 Python (Basics + APIs)**
+<img src="https://img.icons8.com/color/96/python.png" width="60"/>
+<img src="https://img.icons8.com/color/96/fastapi.png" width="60"/>
+
+### **🛠 DevOps & Version Control**
+<img src="https://img.icons8.com/color/96/git.png" width="60"/>
+<img src="https://img.icons8.com/material-outlined/96/github.png" width="60"/>
+<img src="https://img.icons8.com/color/96/gitlab.png" width="60"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2E7D32?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### **Tools, DevOps & Environment**
-- Git, GitHub, GitLab  
-- Postman  
-- Android Studio / VS Code  
-- CI/CD pipelines  
-- Crashlytics & Performance Monitoring  
-- App Store / Play Store publishing & release management  
+<!-- ===================================================================================== -->
+<!-- WAVE DIVIDER -->
+<!-- ===================================================================================== -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/horizon.png" width="100%">
 
 ---
 
-### **UI / UX Engineering**
-- Responsive UI across all devices  
-- Pixel-perfect conversion from Figma/Adobe XD  
-- Interaction design & micro-animations  
-- Accessibility & usability best practices  
-- Shimmer, animations, transitions  
+# 🌟 **Featured Projects**
+
+Here are some of the major production apps I’ve proudly built:
+
+### 🚀 **Umrah Gift**
+> ▪ Realtime GPS • Qibla • Video Calls  
+> ▪ Flutter • Firebase • Maps  
+> ▪ Platforms: App Store • Google Play  
 
 ---
 
-### **Soft Skills**
-- Strong analytical reasoning  
-- Problem-solving under pressure  
-- Ownership & accountability  
-- Clear communication  
-- Leadership in agile teams  
+### 🏘 **Aqarcom (عقار كوم)**
+> ▪ Real estate marketplace with maps & filters  
+> ▪ Flutter • Firebase • REST APIs  
+> ▪ Platforms: iOS • Android • Huawei AppGallery  
 
 ---
 
-<!-- ========================================================= -->
-<!-- FEATURED PROJECTS -->
-<!-- ========================================================= -->
-
-## 🚀 Highlighted Production Apps
-
-I’ve built and delivered **20+ fully-released applications** across different industries.
-
-### 🌟 **Top Impact Projects**
-#### **Umrah Gift**
-- Flutter • Firebase • Maps • GetX  
-- Live video calls, Qibla, location tracking  
-- Platforms: **App Store • Google Play**
-
-#### **Aqarcom (عقار كوم)**  
-A full real-estate marketplace with advanced map features.  
-- Flutter • Firebase • Maps • Bloc  
-- Platforms: **App Store • Play Store • AppGallery**
-
-#### **X5 Smart**
-- Enterprise-level admin + client solution  
-- Flutter • Dart • Bloc • Firebase  
-- Platform: **App Store**
-
-#### **HQOL (حقول)**
-- E-commerce ecosystem (Mobile + Backend integration)  
-- Flutter • REST APIs • GetX • Firebase  
-- Platforms: **App Store • Play Store**
-
-#### **Busaty (Parents / Bus / School)**
-A real-time school bus tracking ecosystem:  
-- Realtime locations • Socket.IO • Maps  
-- Flutter • Bloc • Firebase  
-- Platforms: **App Store • Play Store • AppGallery**
-
-#### **Hijin Al Khaleej**
-- Realtime competitions & live data  
-- Flutter • Firebase • REST APIs • Socket.IO  
-- Platforms: **App Store • Play Store**
-
-#### **Many More:**
-Miss Loren, One Drop, Saden Park, Labani, Fokkaha, Mall Guide, Salesco, and more.
-
-👉 *Full list available in my portfolio + GitHub repositories.*
+### 🚌 **Busaty System (Parents • School • Bus)**
+> ▪ Live tracking with Socket.IO  
+> ▪ Three integrated apps  
+> ▪ Flutter • Firebase • Bloc  
 
 ---
 
-<!-- ========================================================= -->
-<!-- GITHUB ANALYTICS -->
-<!-- ========================================================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abuelhassan208&theme=tokyonight" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuelhassan208&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abuelhassan208&layout=compact&theme=tokyonight" height="170"/>
-</p>
+### 🍽 **Fokkaha – Restaurant & Delivery**
+> ▪ Multi-app ecosystem  
+> ▪ Google Maps • Firebase • Bloc  
 
 ---
 
-<!-- ========================================================= -->
-<!-- OPEN SOURCE -->
-<!-- ========================================================= -->
-
-## 🌍 Open-Source Work
-
-I contribute to the community by:
-- Building reusable Flutter widgets  
-- Architecture templates & starter kits  
-- Code refactoring & performance improvements  
-- Reviewing Flutter packages and proposing enhancements  
-- Sharing solutions for Dart, CI/CD, Firebase, and app architecture  
-
-🧩 Explore my repositories:  
-👉 **https://github.com/abuelhassan208**
+### 📦 **HQOL – E-commerce**
+> ▪ Offline support • API Integration  
+> ▪ Firebase • SQLite • GetX  
 
 ---
 
-<!-- ========================================================= -->
-<!-- CONTACT -->
-<!-- ========================================================= -->
-
-## 🤝 Let’s Connect & Collaborate
-
-If you're building:
-- A new startup MVP  
-- A scalable cross-platform mobile app  
-- A high-performance enterprise solution  
-- Or need a Flutter consultant…
-
-I’d love to help ✨
-
-**📧 Email:** aboualvixx@gmail.com  
-**🔗 LinkedIn:** https://www.linkedin.com/in/ahmed-abu-elhassan  
-**🌐 Portfolio:** https://abuelhassan208.github.io/ahmed-portfolio  
-**🐙 GitHub:** https://github.com/abuelhassan208  
+Want the full list of 20+ apps?  
+➡️ Check my repositories + portfolio below.
 
 ---
 
-<!-- ========================================================= -->
-<!-- CLOSING QUOTE -->
-<!-- ========================================================= -->
+<!-- ===================================================================================== -->
+<!-- WAVE DIVIDER -->
+<!-- ===================================================================================== -->
 
-> **“Great software is crafted with discipline, refined with creativity, and delivered with purpose.”**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%">
 
-<p align="center">✨ Thanks for visiting — always happy to connect! ✨</p>
+---
+
+# 📊 **GitHub Analytics (Animated)**
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abuelhassan208&theme=tokyonight&border_radius=8" width="500"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abuelhassan208&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuelhassan208&layout=compact&theme=tokyonight&border_radius=8" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abuelhassan208&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<!-- ===================================================================================== -->
+<!-- WAVE DIVIDER -->
+<!-- ===================================================================================== -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
+
+---
+
+# 🤝 **Let’s Connect**
+
+<div align="center">
+
+📩 **Email:**  
+📧 *aboualvixx@gmail.com*
+
+🔗 **Portfolio:**  
+🌐 https://abuelhassan208.github.io/ahmed-portfolio
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ahmed-abu-elhassan
+
+🐙 **GitHub:**  
+https://github.com/abuelhassan208
+
+</div>
+
+---
+
+# 🎬 **Final Quote**
+
+> **“Technology is not just about building apps…  
+> it's about creating experiences that inspire, empower, and change lives.”**
+
+<div align="center">
+✨ *Thank you for visiting my profile!* ✨  
+</div>
+
